@@ -1,2 +1,2 @@
-# com.solid
-SOLID Design Principles Java Examples
+# SOLID Design Principles Java Examples
+
